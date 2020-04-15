@@ -1,7 +1,6 @@
 library widget_handler;
 
-/// A Calculator.
-class Calculator {
-  /// Returns [value] plus 1.
+
+class HandlerCore {
   int addOne(int value) => value + 1;
 }
